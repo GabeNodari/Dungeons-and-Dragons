@@ -5,7 +5,7 @@ Esta é uma página web simples projetada para fornecer acesso aos livros de reg
 **Considerações:**
 
 *Os links foram removidos do código por se tratarem de distribuições não oficiais. <br>
-*O autor original da imagem ilustratiuva não foi encontrado e, por isso, não está creditado.
+*O autor original da imagem ilustrativa não foi encontrado e, por isso, não está creditado.
 
 **Funcionalidades:**
 
