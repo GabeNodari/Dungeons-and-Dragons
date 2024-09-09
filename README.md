@@ -1,4 +1,4 @@
-**Página de recursos: Dungeons & Dragons 3.5e**
+# Página de recursos: Dungeons & Dragons 3.5e
 
 Esta é uma página web simples projetada para fornecer acesso aos livros de regras principais da edição 3.5 de Dungeons & Dragons.
 
