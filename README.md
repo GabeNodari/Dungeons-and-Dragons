@@ -1,6 +1,6 @@
 # Página de recursos: Dungeons & Dragons 3.5e
 
-Esta é uma página web simples projetada para fornecer acesso aos livros de regras principais da edição 3.5 de Dungeons & Dragons.
+Este projeto se trata de uma peuso-página web projetada para fornecer acesso aos livros de regras principais da edição 3.5 de Dungeons & Dragons.
 
 **Considerações:**
 
